@@ -1,0 +1,16 @@
+Sinopsis:
+
+- Éste script en bash se utiliza con el programa xscreensaver,
+para reproducir vídeo como protector de pantalla.
+
+- Primero se buscan todos los archivos de vídeo en un
+directorio, luego de esa lista, se reproduce uno de
+ellos seleccionado aleatoriamente. 
+
+- Luego de instalar puede seleccionar el item desde el
+programa xscreensaver-demo.
+
+- Depende de xscreensaver-demo y mpv.
+- Se instalará en ~/.local/bin/
+- Se añade un item en el archivo ~/.xscreensaver
+
