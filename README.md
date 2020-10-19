@@ -8,6 +8,6 @@ Los programas que puede instalar se listan en **NiNo**
 
 **Sólo para GNU/Linux**
 
-<img src="https://git.disroot.org/daltomi/NiNo/raw/branch/master/screenshot/scr00.png"/>
+<img src="https://github.com/daltomi/nino/raw/master/screenshot/scr00.png"/>
 
-<img src="https://git.disroot.org/daltomi/NiNo/raw/branch/master/screenshot/scr01.png"/>
+<img src="https://github.com/daltomi/nino/raw/master/screenshot/scr01.png"/>
